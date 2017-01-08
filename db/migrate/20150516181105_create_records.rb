@@ -1,11 +1,11 @@
-class CreateRecords < ActiveRecord::Migration[5.0]
+class CreateRecords < ActiveRecord::Migration
   def change
     create_table :records do |t|
       t.string :title
       t.date :date
       t.float :amount
 
-      t.timestamps
+      t.timestamps null: false
     end
   end
 end

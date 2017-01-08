@@ -1,24 +1,3 @@
-# README
+## Accounts - React on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Support files for [React.js - A guide for Rails developers](https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers), a tutorial posted on [Airpair](https://www.airpair.com/) which explains how to integrate [React.js](https://facebook.github.io/react/) into a [Ruby on Rails](http://rubyonrails.org/) application.
